@@ -8,6 +8,13 @@ public class TwoSum {
         // Input target
         System.out.print("Enter the target: ");
         int target = scanner.nextInt();
+        System.out.print("Enter the target: ");
+        scanner.nextLine();
+        System.out.println();
+
+
+        String tar = scanner.nextLine();
+        System.out.println("Enter the size of the array: "+ tar);
 
         // Input array size
         System.out.print("Enter the size of the array: ");
